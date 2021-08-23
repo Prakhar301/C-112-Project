@@ -1,0 +1,31 @@
+body{
+    background-color:palevioletred !important;
+}
+#imgf{
+    width:100px;
+    height:75px;
+}
+#hone{
+    padding: 5px;
+    background-color: darkslateblue;
+    border-radius: 25px;
+    height:75px;
+    color:tomato;
+}
+.imgt{
+    width:200px;
+    height: 200px;
+}
+.test{
+    padding: 5px;
+    margin:5px;
+}
+label,span,div{
+    font-size: 5mm !important;
+    font-weight: 700 !important;
+    background-color:paleturquoise;
+    width:75% !important;
+}
+.divty{
+    background-color: palevioletred !important;
+}
